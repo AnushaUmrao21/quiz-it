@@ -2,7 +2,7 @@
 >Used Chrome to download the home_page icon image.
 >Used inline stylng for keeping the project simple and effective.
 >I have created the file named App.js, to create and add the code for the desred input and output asked.
-
+>Though it might not work on some devices or web, yet I am trying to saught it out.
 > Why do I have a folder named ".expo" in my project?
 The ".expo" folder is created when an Expo project is started using "expo start" command.
 > What do the files contain?
